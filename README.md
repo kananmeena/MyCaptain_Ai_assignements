@@ -1,1 +1,1 @@
-All the artificail intelligence assignments
+All the artificial intelligence assignments
